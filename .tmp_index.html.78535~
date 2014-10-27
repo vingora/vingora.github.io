@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jiang Kun's Investing World</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/homepagestyle.css">
+        <!--[if lt IE 9]>
+            <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <!-- Static navbar -->
+        <nav class="navbar navbar-default navbar-static-top" role="navigation">
+            <div class="container">
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active">
+                            <a href="#">Home</a>
+                        </li>
+                        <li>
+                            <a href="/pater.html">My Paper</a>
+                        </li>
+                        <li>
+                            <a href="/research.html">Macro Research</a>
+                        </li>
+						<li>
+							<a href="/contact.html">Contact Me</a>
+						</li>
+                    </ul>
+                </div>
+                <!--/.nav-collapse -->
+            </div>
+        </nav>
+        <ul class="nav nav-tabs text-muted" role="tablist">
+            <li>
+                <a href="index.html"><h1>Home</h1></a>
+            </li>
+            <li>
+                <a href="index2.html"><h1>My Paper</h1></a>
+            </li>
+            <li>
+                <a href="index3.html"><h1>Macro Research</h1></a>
+            </li>
+            <li>
+                <a href="Index4.html"><h1>Contact Me</h1></a>
+            </li>
+        </ul>
+        <div class="container-fluid">
+            <div class="jumbotron text-center bg-primary">
+                <h1>Jiang Kun's Investing World </h1>
+                <br>
+                <p>
+                    <h2>"Keep things simple and don't swing for the fences."</h2>
+                </p>
+            </div>
+            <!-- Then we create rows <div class="row"> --><!-- Then we create columns for each row <div class="col-md-12"> --><!-- And specify that each row has columns that are a certain width; in this case it is 6 columns wide; these should add up to 12, so 4 columns would each be 3, 3 columns would each be 4 etc.--><!-- md applies to medium or large devices 992+ pixels or larger--><!-- If we make it smaller than 992 pixels, then this stacks on top of each other; we can change this to be sm for smaller devices-->
+            <div class="row">
+                <div class="col-md-5 text-center">
+                    <img src="img/avatar.jpg" width="449" height="486" class="img-responsive img-thumbnail" alt="responsive image">
+                </div>
+                <div class="col-md-7 text-center hidden-xs">
+                <h1>Jiang Kun</h1>
+                <h3>"We recognize the perimeter of our 'circle of competence' and stay well inside of it."
+                    One of a kind, among the best investing blogs. 
+                    Macro Research 
+                    Our Street-leading macro research teams offer high-level insights and thematic trends across world markets as well as timely commentary about political events in an ever-changing world.  The macro team is made up of our Economics, Strategy, Technical Analysis, Demographics, Accounting & Tax, Index & Alpha Strategies and Quantitative Research teams.  
+                    Valuable Global Commentary. Credit Suisse offers high-impact macro research, delivering timely market commentary in response to global events and trends. 
+                    Analytics and Deep Industry Relationships. Our macro analysts are recognized for their detailed and thoughtful analysis of economic indicators, the accuracy of their forecasts, as well as their insights into the implications of government policies.  
+                    Unique Macro Offering. Our Demographics, Technical Analysis, and Accounting and Tax teams offer a unique macro overlay to our fundamental research. 
+                    The Ability to Leverage Market Thematics Into Investable Ideas. Our macro research extends beyond fundamental economic performance, taking a deep look at developing market themes to help our clients with asset allocation. Our market strategies and equity strategy teams often leverage current macro themes into investable ideas.  
+                    I believe Finance, Operation and Strategy plan are inextricably connected in business. A first class manager should integrate all these aspects with solid mufti-disciplinary experience and then one can unleash powerful insights and significant value business. The multidisciplinary experiences in corporates and financial institutes give me an understanding of business both in financial perspective and operational perspective. </h3>
+                </p>
+            </div>
+            <!-- We can hide certain things so that we don't see them on smaller devices using hidden-xs -->
+        </div>
+        </div>
+    </div>
+    <div id="footer">
+        All rigths researved to Kun Jiang.
+    </div>
+    </body>
+    <script src="js/jquery.min.js">
+    </script>
+    <script src="js/bootstrap.min.js">
+    </script>
+</html>

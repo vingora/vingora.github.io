@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Macro Research - Jiang Kun's Investing World</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/homepagestyle.css">
+        <!--[if lt IE 9]>
+            <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body class="research">
+        <!-- Static navbar -->
+        <nav class="navbar navbar-default navbar-static-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="./index.html">Jiang Kun</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>
+                            <a href="./index.html">Home</a>
+                        </li>
+                        <li>
+                            <a href="./paper.html">My Paper</a>
+                        </li>
+                        <li class="active">
+                            <a href="./research.html">Macro Research</a>
+                        </li>
+                        <li>
+                            <a href="./contact.html">Contact Me</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container">
+            <h1>What's happening in the world</h1>
+            <hr/>
+            <div class="row">
+	            <div class="col-md-4 hidden-xs">
+	                <img src="img/macro1.jpg" class="img-responsive img-rounded" alt="Geothermal power sheds its hot-spring roots"/>
+	            </div>
+	            <div class="col-md-8 col-xs-3">
+	                <h2>Geothermal power sheds its hot-spring roots</h2>
+	                <br/>
+	                <section>
+	                    <p>GEOTHERMAL energy, long a poor relation among the more glamorous renewable technologies of wind and solar power, is poised to smarten its dowdy image. Piping-hot underground water and steam, percolating up through fissures in rocks fractured by seismic activity, have been a welcome feature of the European landscape since the Romans popularised bathing. On the other side of the globe, the Japanese have luxuriated since the Heian era in hot-spring onsen that dot their volcanic and quake-strewn archipelago. Even so, as a source of renewable energy, geothermal electricity has gone largely ignored as fortunes have been heaped on its rivals.</p>
+	                    <p>Today, a handful of countries that sit astride seismic belts or have active volcanoes in their midst, such as Iceland, the Philippines, Costa Rica and New Zealand, get a significant proportion of their heat and electricity from geothermal sources. America actually has more geothermal generating capacity (3.4 gigawatts) than any other country. But because of its huge resources of coal and natural gas, along with heavy investments in hydroelectricity and nuclear power, geothermal juice contributes a mere 0.3% of its electrical output.</p>
+	                </section>
+				</div>
+			</div>
+			
+			<h1>Funny Things do happen</h1>
+			<hr/>
+			<div class="row">
+	            <div class="col-md-4 hidden-xs">
+	                <img src="img/macro2.jpg" class="img-responsive img-rounded" alt="Geothermal power sheds its hot-spring roots"/>
+	            </div>
+	            <div class="col-md-8 col-xs-3">
+	                <h2>What your dog's costume says about the economy: The week ahead</h2>
+	                <br/>
+	                <section>
+	                    <p>Strong earnings reports outweighed fears of Ebola in the U.S. as markets end another bumpy week as the major U.S. markets ended the week on a high note. Skittish investors have been riding uncertainty for weeks. Next week is shaping up for more of the same.</p>
+						<p>On Sunday, the European Central Bank will release the results of its stress tests on 130 banks across Europe. Bloomberg News reported Friday morning that 25 banks will fail. Many are speculating that the banks that did not pass the test are regional banks, not major players and markets will not be affected. But Yahoo Finance Editor-in-Chief Aaron Task is “concerned there is a little too much complacency about this.” There could be a surprise in this report,” he says. “We’ve seen people get scared about Europe and it does start to filter through to our markets.”</p>
+						<p>The Federal Reserve’s bond-buying stimulus program, known affectionately as quantitative easing, will likely end on Monday. But after comments from St. Louis Fed president James Bullard about the possibility of more quantitative easing calmed shaky markets last week, Task says this “might not be the last of the QEs.”</p>
+						<p>On Thursday, we’ll get the first read of GDP for the third quarter. GDP, of course, is the broadest measure of economic activity. GDP has been very volatile so far this year, down sharply in the first quarter, then swinging way up in the second quarter. Yahoo Finance Columnist Rick Newman says, “That’s manic and that doesn’t make anybody feel good.” Newman hopes to see a reading around 2.8% for the 3rd quarter. “It won’t move the markets,” he says, but “everybody will feel pretty good about it.”</p>
+	                </section>
+				</div>
+			</div>
+			
+			<h1>This is brazil</h1>
+			<hr/>
+			<div class="row">
+	            <div class="col-md-4 hidden-xs">
+	                <img src="img/macro3.jpg" class="img-responsive img-rounded" alt="Geothermal power sheds its hot-spring roots"/>
+	            </div>
+	            <div class="col-md-8 col-xs-3">
+	                <h2>“铁娘子”罗塞夫连任巴西总统</h2>
+	                <br/>
+	                <section>
+	                	<p>巴西现任总统、劳工党候选人迪尔玛•罗塞夫（Dilma Rousseff ）以微弱优势获得连任。</p>
+	                	<p>在已经统计完的98%的选票中，罗塞夫获得51.45%的选票，击败社会民主党候选人内韦斯，成为巴西历史上第一位蝉联总统的女总统。</p>
+						<p>内韦斯所在的社会民主党1995年至2002年是执政党，劳工党从2003年执政至今。</p>
+						<p>据中新网介绍，罗塞夫于2001年加入劳工党，后在卢拉(巴西前总统）政府中任能源部长。2005年，她被擢升为有“首席部长”之称的总统府民事办公室主任，成为卢拉的“左膀右臂”，帮助卢拉出台多项民生政策，并最终被卢拉“钦定”为接班人。</p>
+						<p>罗塞夫作风强硬，素有“铁娘子”之称，深得卢拉信任。2009年，她被劳工党提名为候选人参加2010年的总统选举。2010年10月31日，巴西最高选举法院宣布，罗塞夫以56%的得票率击败社会民主党候选人若泽﹒塞拉，当选巴西首位女总统。</p>
+						<p>作为卢拉的继任者，一直以来，罗塞夫在巴西具有坚实的民众基础。但自其就任总统后，巴西的经济增长连年下滑，对比卢拉执政时期的高经济增长，罗塞夫所领导的政府在经济方面的表现令罗塞夫本人和劳工党极为难堪。</p>
+						<p>据新华社报道，内韦斯呼吁选民审视“现在的怪物”，批评劳工党带来经济衰退、通货膨胀，以及巴西石油公司金额达数十亿美元的贪腐丑闻。这家国有企业的一名高管上月在认罪协议中供述，30多名国会议员牵涉洗钱并向这家企业收受回扣。</p>
+						<p>不过，罗塞夫仍然蝉联了巴西总统之位，在贫困的北部和东北部，乃至在内韦斯的根据地、东南重镇米纳斯吉拉斯都赢得了多数选票。据英国《金融时报》，在金融危机的背景下，罗塞夫政府仍然成功降低了巴西失业率，并且通过扩大社会福利的对象，成功赢得了民心。3000万自2000年开始脱贫的中产阶级对这次选举无疑是至关重要的，他们担心内韦斯上台不利于这些好不容易才实施的政策。</p>
+						<p>在罗塞夫未来的任期中，经济将是她面临的一大主要问题。此外，巴西近年来贫富悬殊问题日益加剧，民众迫切希望巴西能够出现平衡经济发展和民生的“新”总统。	                
+					</section>
+				</div>
+			</div>
+        </div>
+		
+		
+        <footer class="footer">
+            <div class="container">
+                <hr/>
+                <p class="text-center">
+                    All rigths researved to Kun Jiang.
+                </p>
+            </div>
+        </footer>
+    </body>
+    <script src="js/jquery.min.js">
+    </script>
+    <script src="js/bootstrap.min.js">
+    </script>
+</html>
