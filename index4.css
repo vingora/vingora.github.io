@@ -1,0 +1,15 @@
+body {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 300;
+  background: url(bluedream.jpg)norepeat;
+  background-size: 1400px;
+
+}
+#wrapper {
+                width: 1080px;
+                margin: 20px auto;
+                padding: 20px;
+}h1{
+	color:gray;
+
+}
